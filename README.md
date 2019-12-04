@@ -1,8 +1,8 @@
 # Projet_FER
 
-Test technique de Machine Learning - Reconnaissance des émotions
+## Test technique de Machine Learning - Reconnaissance des émotions
 
-1. Téléchargements des jeux de données
+### 1. Téléchargements des jeux de données
 
 Par soucis de droits de diffusion, les jeux de données n’ont pas été inclus dans ce dossier. Ils sont disponible dans les liens suivants:
 
@@ -15,7 +15,7 @@ https://fei.edu.br/~cet/frontalimages_manuallyaligned_part1.zip
 https://fei.edu.br/~cet/frontalimages_manuallyaligned_part2.zip
 
 
-2. Lancement et test des modèles
+### 2. Lancement et test des modèles
 
 ..* Classification binaire
 
